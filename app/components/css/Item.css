@@ -1,0 +1,25 @@
+.root{
+    padding:1rem 0;
+    background-color: #FFFAF0 ;
+    position: relative;
+    margin-top:1rem;
+
+}
+.button{
+    background-color: white;
+    border-radius: 0.4rem;
+    margin-left:0.5rem;
+    padding: 0.5rem;
+    position: absolute;
+    right: 1rem;
+    top:50%; transform: translateY(-50%);
+}
+.span{
+    margin-left:1rem;
+    color:gray;
+    font-size:18px;
+}
+.input{
+    width:20px;
+    height:20px;
+}

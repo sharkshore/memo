@@ -1,0 +1,21 @@
+.root{
+    background-color: black;
+    color:white;
+    padding: 1rem 0;
+}
+
+.title{
+    font-size:20px;
+}
+
+.button{
+    background-color: white;
+    border-radius: 0.4rem;
+    margin-left:0.5rem;
+    padding: 0.5rem;
+}
+.input{
+    margin-left:1rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem;
+}
